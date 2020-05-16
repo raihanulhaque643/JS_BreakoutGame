@@ -17,3 +17,5 @@ Add collision detection
 Keep score
 
 Add rules button with slider
+
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
