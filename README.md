@@ -19,3 +19,5 @@ Keep score
 Add rules button with slider
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
